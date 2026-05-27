@@ -3,6 +3,9 @@
 ## Overview
 Operational analytics dashboard designed to monitor work order completion rates, closure trends, and KPI performance across enterprise facilities operations.
 
+## Key Accomplishments
+Leadership required improved visibility into operational performance across multiple organizational levels based on newly established standards and reporting requirements. This Power BI solution was developed using over five years of enterprise Work Request data extracted through custom SQL development and transformed using Power Query within a star schema semantic model. Extensive backend data preparation and transformation were implemented to optimize dashboard performance, streamline reporting logic, and reduce front-end processing complexity. DAX measures and calculated metrics were developed to support KPI tracking, trend analysis, and operational performance reporting across enterprise datasets.
+
 ## Technologies
 - Power BI
 - DAX
