@@ -11,6 +11,7 @@ These projects showcase experience designing scalable reporting solutions, devel
 ## Enterprise O&M Dashboard
 Operational analytics dashboard designed to monitor work order completion rates, closure trends, and enterprise performance metrics across 350+ facilities sites.
 
+
 ### Key Features
 - KPI scorecards
 - Operational trend analysis
