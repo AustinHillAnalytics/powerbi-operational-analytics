@@ -26,8 +26,19 @@ This model was developed using Source of Truth exports from our internal databas
 
 ![Executive Overview](screenshots/O&M_PM_Overview.png)
 
-This page provides leadership visibility into:
+This page was designed to provide leadership with an interactive view into the enterprise's workload, rates, KPI's, and overall performance metrics that include:
 - Completion rates
 - Closure trends
-- Operational KPIs
 - Enterprise performance metrics
+
+## Completion and Closure Rates
+
+To give easily usable and understood Work Request Completion Rate metrics, the following visuals were developed. These give an insight into contract performance and work request rates. Leadership required a way to integrate their high-level requirements into metrics that display overall performance according to developed standards:
+![Executive Overview](screenshots/O&M_Completion_Closure_Pie.png) 
+
+![Executive Overview](screenshots/O&M_Rates.png) 
+
+## Resource Efficiency Development
+
+This is a sample of the metrics used to display the resource efficiency of the Work Request O&M (Operations and Maintenance) process. It allows leadership to use dynamic filters developed using DAX measures to view the average times between different stages in the work request process.
+![Executive Overview](screenshots/O&M_Resource_Efficiency.png) 
