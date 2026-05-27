@@ -17,3 +17,14 @@ Operational analytics dashboard designed to monitor work order completion rates,
 
 ## Data Model
 ![Executive Overview](screenshots/O&M_Model.png)
+
+
+## Executive Overview Page
+
+![Executive Overview](screenshots/O&M_PM_Overview.png)
+
+This page provides leadership visibility into:
+- Completion rates
+- Closure trends
+- Operational KPIs
+- Enterprise performance metrics
