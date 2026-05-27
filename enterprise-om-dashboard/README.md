@@ -16,3 +16,4 @@ Operational analytics dashboard designed to monitor work order completion rates,
 - Drill-through reporting
 
 ## Data Model
+![Executive Overview](screenshots/O&M_Model.png)
