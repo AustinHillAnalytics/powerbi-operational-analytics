@@ -11,6 +11,7 @@ These projects showcase experience designing scalable reporting solutions, devel
 ## Enterprise O&M Dashboard
 Operational analytics dashboard designed to monitor work order completion rates, closure trends, and enterprise performance metrics across 350+ facilities sites.
 
+[Enterprise O&M Dashboard READ ME](enterprise-om-dashboard/README.md)
 
 ### Key Features
 - KPI scorecards
@@ -24,12 +25,16 @@ Operational analytics dashboard designed to monitor work order completion rates,
 ## Enterprise Data Quality Dashboard
 Developed enterprise data quality reporting tools used to evaluate DMLSS compliance against 100+ operational standards across the DHA Facilities Enterprise.
 
+[Enterprise Data Quality READ ME](enterprise-data-quality-dashboard/README.md)
+
 ### Key Features
 - Data quality scoring
 - Compliance tracking
 - Trend analysis
 - Power Query transformations
 - Executive performance reporting
+- Reporting Automation
+- Stakeholder-Focused Analytics
 
 ### Impact
 Contributed to improving enterprise data quality performance from approximately 60% to 85% over a two-year period.
@@ -39,26 +44,11 @@ Contributed to improving enterprise data quality performance from approximately 
 ## Reporting Automation & Analytics
 Collection of reporting and analytics solutions focused on reducing manual processing and improving reporting efficiency through automation and dashboard modernization.
 
+[Python Sorting Application READ ME](python_reporting-automation/README.md)
+
 ### Technologies Used
-- Power BI
-- Power Query
-- DAX
-- SQL
 - Python
-- Excel
-
----
-
-# Skills Demonstrated
-
-- Business Intelligence Development
-- Data Visualization
-- Data Modeling
-- KPI & Operational Reporting
-- Power Query & DAX
-- Data Quality & Governance
-- Reporting Automation
-- Stakeholder-Focused Analytics
+- Stakeholder-Focused Application Development
 
 ---
 
