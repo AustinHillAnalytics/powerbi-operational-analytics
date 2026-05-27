@@ -14,3 +14,5 @@ Operational analytics dashboard designed to monitor work order completion rates,
 - Trend analysis
 - Interactive filtering
 - Drill-through reporting
+
+## Data Model
