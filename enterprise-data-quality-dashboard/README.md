@@ -1,10 +1,10 @@
 # Enterprise Data Quality Dashboard
 
 ## Overview
-Operational analytics dashboard designed to monitor and score the data quality of a database factoring in enterprise and data requirements.
+Operational analytics dashboard designed to monitor and score the data quality of a database, factoring in enterprise and data requirements.
 
 ## Key Accomplishments
-Leadership required improved visibility into operational performance across multiple organizational levels based on newly established standards and reporting requirements. This Power BI solution was developed using over five years of enterprise Work Request data extracted through custom SQL development and transformed using Power Query within a star schema semantic model. Extensive backend data preparation and transformation were implemented to optimize dashboard performance, streamline reporting logic, and reduce front-end processing complexity. DAX measures and calculated metrics were developed to support KPI tracking, trend analysis, and operational performance reporting across enterprise datasets.
+Leadership required improved visibility into operational performance across multiple organizational levels based on newly established standards and reporting requirements. This Power BI solution allows integrates data from all existing data tables within the sourced database, connecting all using a star schema semantic model. Extensive backend data preparation and transformation were implemented to optimize dashboard performance, streamline reporting logic, and reduce front-end processing complexity. DAX measures and calculated metrics were developed to support KPI tracking, trend analysis, and operational performance reporting across enterprise datasets.
 
 ## Technologies
 - Power BI
@@ -27,7 +27,7 @@ This model was developed using Source of Truth exports from our internal databas
 
 ## Executive Overview Page
 
-![Executive Overview](screenshots/O&M_PM_Overview.png)
+![Executive Overview](screenshots/DQR_Executive_Summary.jpg)
 
 This page was designed to provide leadership with an interactive view into the enterprise's workload, rates, KPI's, and overall performance metrics that include:
 - Completion rates
